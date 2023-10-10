@@ -14,9 +14,8 @@ googleAnalytics = ""
   description = "Data Driven and Generative Art, some Photography"
   copyright = "&copy;2023 Manuel Levi"
   sidebarAbout = [
-    "I generate art from code.",
-    "Originally from Coimbra, lived in Singapore, London, and now Lisbon.",
-    
+    "I turn code and data into art.",
+    "Work on this site is either my own or part of a collaborative project.", 
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
