@@ -1,7 +1,7 @@
 ---
-weight: 5
+weight: 1
 images:
-- /images/red_leds_face_loop.gif
+- /images/red_leds_face_trim.gif
 title: Red Facial Leds
 multipleColumn: true
 date: 2022-07-23

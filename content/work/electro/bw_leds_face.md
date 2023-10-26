@@ -1,7 +1,7 @@
 ---
 weight: 5
 images:
-- /images/bw_leds_face_loop.gif
+- /images/bw_leds_face.gif
 title: W Facial Leds
 multipleColumn: true
 date: 2022-07-23

@@ -4,7 +4,7 @@ defaultContentLanguage: "en"
 theme: eternity
 googleAnalytics: "" # todo: set your analytics id.
 
-timeout: 40
+timeout: 60
 
 params:
   image: /images/banner.png

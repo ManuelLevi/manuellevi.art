@@ -1,7 +1,7 @@
 ---
 weight: 5
 images:
-- /images/led_legs_loop.gif
+- /images/led_legs_trim.gif
 title: LEgS
 multipleColumn: true
 date: 2022-07-23
