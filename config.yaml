@@ -1,8 +1,8 @@
 baseURL: https://manuellevi.art # todo: change site url.
 title: Manuel Levi # todo: change site name.
-defaultContentLanguage: 'en'
+defaultContentLanguage: "en"
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: "" # todo: set your analytics id.
 
 params:
   image: /images/banner.png
@@ -30,8 +30,8 @@ params:
     #- icon: 'fab fa-github fa-lg'
     #  url: 'https://github.com/boratanrikulu/eternity'
     #  landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/manuel.levi'
+    - icon: "fab fa-instagram fa-lg"
+      url: "https://instagram.com/manuel.levi"
     #- icon: 'fab fa-linkedin-in fa-lg'
     #  url: 'https://linkedin.bora.sh/in/eternity'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
@@ -40,9 +40,9 @@ params:
     - archive
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
-  plausible: '' # todo: set your plausible id.
+  plausible: "" # todo: set your plausible id.
   disableRadius: false
-  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  moveIt: false # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: true # TODO disabled because of CSV
 
 markup:
@@ -62,11 +62,11 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: electro
+      url: /tags/electro/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: dizzy
+      url: /tags/dizzy/
       weight: 3
     - name: photography
       url: /tags/photography/
