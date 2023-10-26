@@ -4,6 +4,8 @@ defaultContentLanguage: "en"
 theme: eternity
 googleAnalytics: "" # todo: set your analytics id.
 
+timeout: 40
+
 params:
   image: /images/banner.png
   logo: logo.png # todo: add your custom logo to static/
