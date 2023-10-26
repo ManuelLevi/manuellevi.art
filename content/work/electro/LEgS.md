@@ -11,4 +11,4 @@ tags:
 - electro
 ---
 
-# Dancer's Trinity
+# LE(dG)S

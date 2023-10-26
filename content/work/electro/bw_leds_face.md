@@ -1,8 +1,8 @@
 ---
 weight: 5
 images:
-- /images/led_legs_loop.gif
-title: LEgS
+- /images/bw_leds_face_loop.gif
+title: W Facial Leds
 multipleColumn: true
 date: 2022-07-23
 tags:
@@ -11,4 +11,4 @@ tags:
 - electro
 ---
 
-# Dancer's Trinity
+# WFacial Leds
