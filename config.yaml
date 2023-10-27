@@ -19,7 +19,7 @@ params:
         nature: 4
         archive: 6
         people: 2
-        default: 3
+        default: 5
       mobile:
         default: 2
         archive: 3
