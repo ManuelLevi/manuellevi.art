@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 6
 images:
 - /images/squares/feelings/anxiety.png
 - /images/squares/feelings/depression.png

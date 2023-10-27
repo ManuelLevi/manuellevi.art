@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 images:
 - /images/icecream/moar_power.png
 - /images/icecream/lettuce_icecream.png

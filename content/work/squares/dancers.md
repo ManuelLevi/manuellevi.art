@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 1
 images:
 - /images/dancers_trinity.png
 title: Dancer's Trinity

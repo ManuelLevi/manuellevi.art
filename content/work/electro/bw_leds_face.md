@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 2
 images:
 - /images/bw_leds_face.gif
 title: W Facial Leds

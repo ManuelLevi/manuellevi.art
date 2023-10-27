@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 9
 images:
 - /images/red_leds_face_trim.gif
 title: Red Facial Leds

@@ -5,6 +5,6 @@ url: work
 
 <div align="center">
 	<p>
-        Find my work here.
+        I turn data and code into art.
 	</p>
 </div>

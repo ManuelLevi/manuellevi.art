@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 7
 images:
 - /images/led_legs_trim.gif
 title: LEgS
