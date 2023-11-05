@@ -73,6 +73,9 @@ menu:
     - name: photography
       url: /tags/photography/
       weight: 3
+    - name: design
+      url: /tags/design/
+      weight: 3
     - name: archive
       url: /tags/archive/
       weight: 4
