@@ -25,3 +25,9 @@ Install imagemagick (sometimes this does not center)
 ## Page Not Found
 
 Probably it's the result of clone or pull without recursive.
+
+
+## Encrypt/Decrypt
+
+gpg -c more_info.txt
+gpg -d more_info.txt.gpg

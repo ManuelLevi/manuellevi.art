@@ -4,6 +4,8 @@ images:
 - /images/design/cable_organizer/cable_double.png
 - /images/design/cable_organizer/cable_single_3.png
 - /images/design/cable_organizer/cable_single.png
+- /images/design/cable_organizer/cable_single_yellow.png
+- /images/design/cable_organizer/cable_3dprint_transparent_detail.png
 title: Cable Organizer
 multipleColumn: true
 date: 2022-07-23
@@ -45,10 +47,20 @@ This cable organizer is meticulously crafted to endure the test of time. Its str
 
 Each curve and angle serve a purpose.
 
-## 3D Print
+## Buy the Model
 
-![Alt text](cable_single_yellow.png)
+This model is for sale at [Cults3D](https://cults3d.com/en/3d-model/home/multifunction-single-and-double-cable-organizer). 
+
+The file is an STL. It can be used for:
+* 3D printing;
+* CNC cutting;
+* Laser cutting.
+
+![Alt text](/images/design/cable_organizer/cable_single_yellow.png)
+
 This piece was designed so it could be easily 3D printed and even laser cut. 
-![Alt text](cable_3dprint_transparent.png)
 Made to be printed on it's side, if printed with transparent plastic like PETG, you'll be able to see the infill lines of the part.
-![Alt text](cable_3dprint_transparent_detail.png)
+
+![Alt text](/images/design/cable_organizer/cable_3dprint_transparent_detail.png)
+
+Buy the model now at [Cults3D](https://cults3d.com/en/3d-model/home/multifunction-single-and-double-cable-organizer). 
