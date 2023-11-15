@@ -67,8 +67,8 @@ menu:
     - name: electro
       url: /tags/electro/
       weight: 2
-    - name: dizzy
-      url: /tags/dizzy/
+    - name: squares
+      url: /tags/squares/
       weight: 3
     - name: photography
       url: /tags/photography/
