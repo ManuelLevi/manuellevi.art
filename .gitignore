@@ -3,3 +3,4 @@ resources/
 .hugo_build.lock
 themes/
 more_info.txt
+.DS_Store

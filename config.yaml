@@ -2,7 +2,7 @@ baseURL: https://manuellevi.art # todo: change site url.
 title: Manuel Levi # todo: change site name.
 defaultContentLanguage: "en"
 theme: eternity
-googleAnalytics: "" # todo: set your analytics id.
+googleAnalytics: "G-WP9QJMER03" # todo: set your analytics id.
 
 timeout: 60
 
