@@ -12,3 +12,7 @@ tags:
 ---
 
 # Camel Riding
+
+Date: December, 2022
+Location: Sahara Desert, Close to Hassilabied, Morroco
+Camera: Nikon D3300
