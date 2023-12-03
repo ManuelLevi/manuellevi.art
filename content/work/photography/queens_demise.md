@@ -12,3 +12,6 @@ tags:
 ---
 
 # Queens Demise
+
+Location: Coimbra, Portugal
+Camera: Nikon D3300

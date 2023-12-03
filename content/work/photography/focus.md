@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-- /images/photography/focus.jpeg
+- /images/photography/gaze_of_resolve.jpeg
 title: Focus
 multipleColumn: true
 date: 2015-09-04
@@ -10,4 +10,8 @@ tags:
 - photography
 ---
 
-# Focus
+# Gaze of Resolve
+
+Location: Coimbra, Portugal
+Camera: Nikon D3300
+Lense: 35mm

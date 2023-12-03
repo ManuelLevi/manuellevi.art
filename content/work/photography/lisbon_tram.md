@@ -12,3 +12,6 @@ tags:
 ---
 
 # Lisbon Tram
+
+Location: Lisbon, Portugal
+Camera: Nikon D3300

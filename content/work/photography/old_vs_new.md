@@ -12,3 +12,6 @@ tags:
 ---
 
 # Old vs New
+
+Location: London, United Kingdom
+Camera: Nikon D3300

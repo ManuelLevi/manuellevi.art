@@ -12,3 +12,6 @@ tags:
 ---
 
 # Kneeling Down
+
+Location: Lisbon, Portugal
+Camera: Nikon D3300
